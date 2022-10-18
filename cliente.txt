@@ -1,6 +1,0 @@
-1 joão ferreira 15
-2 maria silva 0
-3 cristina barbosa 35
-4 júlia santos 100
-5 rosa ferreira -500
-6 vitor barroso 60
